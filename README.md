@@ -1,6 +1,6 @@
 # Jarvis Voice Assistant
 
-A single-file Python voice assistant built as a tutorial-inspired learning project. It demonstrates speech recognition, text-to-speech, web shortcuts, screenshots, Wikipedia lookup, camera preview, and a few safe desktop actions.
+A single-file Python voice assistant built as a Jarvis-inspired learning project. It demonstrates speech recognition, text-to-speech, web shortcuts, screenshots, Wikipedia lookup, camera preview, and a few safe desktop actions.
 
 ## Features
 
@@ -64,6 +64,5 @@ exit
 
 ## Notes
 
-This project is intended for learning and portfolio practice. It is inspired by common Python voice-assistant tutorials and rewritten as a clean single-file implementation with safer command handling.
 
 The assistant may ask for microphone, camera, and screen-capture permissions depending on your operating system.
