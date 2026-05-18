@@ -1,6 +1,6 @@
 """Jarvis Voice Assistant
 
-A single-file Python voice assistant built as a tutorial-inspired learning project.
+A single-file Python voice assistant built as a Jarvis-inspired learning project.
 It supports voice input, text-to-speech responses, web shortcuts, screenshots,
 Wikipedia summaries, public IP lookup, and a small set of safe desktop actions.
 
